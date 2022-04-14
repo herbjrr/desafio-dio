@@ -1,1 +1,10 @@
 Bloco de anotações da atividade de Git/Github da Dio
+
+Passos a serem seguidos:
+1. inserir:
+email: git config --global user.email "email"
+usuário: git config --global user.name "usuário"
+2. git status;
+3. git add .;
+4. git commit "comentário";
+5. git push origin main (necessário inserir senha ou token)
